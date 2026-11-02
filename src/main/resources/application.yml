@@ -1,0 +1,6 @@
+quarkus:
+  rest:
+    via-cep:
+      url: ${VIA_CEP_URL:https://viacep.com.br}
+
+
